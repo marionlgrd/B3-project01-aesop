@@ -10,7 +10,7 @@ header {
 background: #000 url('images/bg_vassiv.jpg')no-repeat;
 background-size: cover;
 background-position: center;
-color: #ebab34;
+color: red;
 min-height: 100vh;
 display: flex;
 align-items: center;
