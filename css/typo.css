@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css?family=Kaushan+Script|Open+Sans|Roboto:400,500,700|Ultra|Yeseva+One&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Fascinate+Inline&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Liu+Jian+Mao+Cao|Source+Sans+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface|Permanent+Marker|Yeon+Sung&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Caveat&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Literata&display=swap');
+
+<link href="https://fonts.googleapis.com/css?family=Anton&display=swap" rel="stylesheet">
+
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+h1 {
+
+  font-family: 'Yeseva One', cursive;
+  font-size: 4em;
+  padding: 0.5em;
+  background: rgba(255, 255, 255, 0.01);
+  border-radius: 10px;
+}
+
+h2 {
+  font-family: 'Roboto', sans-serif;
+    color: #ebab34;
+}
+
+
+
+h3{
+   display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.5em;
+  font-family:  'Yeseva One', cursive;
+  font-size: 3em;
+  color: #FFF;
+}
+
+
+#content01 {
+  font-family: 'Open Sans', sans-serif;
+padding: 6em;
+
+}
+
+#content01 .moral {
+  font-size: 15px;
+  text-align: center;
+}
+
+
+#content02 h3 {
+font-family: 'Lobster', cursive;
+line-height: 55px;
+text-align: center;
+padding-right: : 40px;
+padding-left: : 40px;
+padding-bottom: : 15px;
+padding-top: : 15px;
+
+font-size: 70px;
+color: #ebab34;
+}
+
+#content02 .text {
+
+color : #FFF;
+font-size: 20px;
+  font-family: 'Caveat', cursive;
+  text-align: right;
+}
+
+
+#content02 .moral{
+font-family: 'Caveat', cursive;
+  font-size: 30px;
+  color: #000;
+  text-align: left;
+  text-shadow: 2px 2px 2px rgba(255,255,255,0.8);
+}
+
+#content03 {
+  font-family: 'Roboto', sans-serif;
+  padding: 6em;
+
+}
+
+#content03 h3 {
+  color: #FFF;
+  font-family: 'Permanent Marker', cursive;
+  padding: 1em;
+  text-align: justify;
+  font-size: 4em;
+  display : flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+#content03 p {
+  font: 17px ; color: #000;
+  font-family: 'Literata', serif;
+flex-wrap: wrap;
+justify-content: space-evenly;
+-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+.thedog{
+  font-size: 1em;
+  font-family: 'Anton', sans-serif;
+  text-align: right;
+
+}
+.shadow{
+  color: #FFF;
+  font-family: 'Kaushan Script', cursive;
+  font-size: 1em;
+  text-shadow: 4px 4px 2px rgba(0,0,0,0.8);
+
+
+}
+
+
+
+#content03 p{
+  line-height: 1.5;
+}
+
+footer{
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+  font-family: 'Anton', sans-serif;
+  padding: 2em;
+}
